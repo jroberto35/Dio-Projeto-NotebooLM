@@ -12,4 +12,4 @@ Criando um estilo de treinamento baseado na intensidade e disciplina do fisicult
 📈 Estratégias para melhorar eficiência e resultados físicos
 O objetivo é integrar IA + metodologia esportiva para alcançar uma performance mais eficaz, eficiente e sustentável.
 
-Segue o link do google notbookLM para ver mais resultado: https://notebooklm.google.com/notebook/1df5790a-ebe0-4b60-ba9d-968df24abd88
+Segue o link do google notbookLM para ver mais resultado e o material de Apoio: https://notebooklm.google.com/notebook/1df5790a-ebe0-4b60-ba9d-968df24abd88
