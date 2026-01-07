@@ -1,6 +1,7 @@
-🧠 Contribuindo para um Projeto Open Source
-Aprendizagem com IA no NotebookLM da Google
-Estou desenvolvendo um “segundo cérebro” utilizando ferramentas de Inteligência Artificial, com foco em organização, estudo contínuo e otimização de desempenho físico.
+🌍 Contribuindo em um Projeto Open Source
+🤖 Aprendizagem com IA no NotebookLM da Google
+Estou desenvolvendo um “segundo cérebro digital” para apoiar estudos, organização e desempenho físico.
+A proposta une Inteligência Artificial e metodologia esportiva, criando um sistema prático e eficiente.
 O projeto inclui:
 
 🏋️ Metodologia de Treinos Inspirada em Ronnie Coleman
